@@ -2,7 +2,10 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 50739 - Coppari, Sofía Elisa
+* 50487 - Dobrovits, Octavio
+* 50428 - Chibotta, Santino
+* legajo - García, Ramiro
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -11,7 +14,7 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+*Página web para la gestión de una clinica veterinaria*
 
 ### Modelo
 ![imagen del modelo]()
