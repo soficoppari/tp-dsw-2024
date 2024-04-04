@@ -28,10 +28,10 @@ Modelo de Dominio: <a href="url">https://drive.google.com/file/d/1-QOe2XRFCVDSYA
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinaria<br>4. CRUD Turno|
+|CRUD dependiente|1. CRUD Historia Clinica {depende de} CRUD Mascota<br>2. CRUD Tipos de Mascota Atendidos {depende de} CRUD Veterinaria|
+|Listado<br>+<br>detalle| 1. Listado de veterinarias filtrado por tipo de mascotas atendidas, muestra nombre y domicilio de la veterinaria => detalle CRUD Turno<br> 2. Listado de antecedentes filtrado por rango de fecha, muestra el titulo del antecedente y su fecha => detalle muestra datos completos del antecedente|
+|CUU/Epic|1. Reservar un turno para una mascota<br>2. Actualizar historia clínica para una mascota|
 
 
 Adicionales para Aprobación
