@@ -5,7 +5,7 @@
 * 50739 - Coppari, Sofía Elisa
 * 50487 - Dobrovits, Octavio
 * 50428 - Chibotta, Santino
-* legajo - García, Ramiro
+* 51175 - García, Ramiro
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -17,9 +17,7 @@
 *Página web para la gestión de una clinica veterinaria*
 
 ### Modelo
-![imagen del modelo]()
-
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+Modelo de Dominio: <a href="url">https://drive.google.com/file/d/1-QOe2XRFCVDSYApUvm1PXDwjMhxbNh0a/view?usp=sharing</a>.
 
 ## Alcance Funcional 
 
