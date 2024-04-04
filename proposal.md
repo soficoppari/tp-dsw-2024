@@ -14,7 +14,7 @@
 
 ## Tema
 ### Descripción
-*Página web para la gestión de una clinica veterinaria*
+*Página web full stack para conectar veterinarias con sus respectivos clientes, en donde un usuario se registra y registra a sus mascotas con sus datos e historia clínica, filtra y elige veterinarias según el tipo de mascota, y saca turnos. Por el lado de la veterinaria, esta se registra, registra los turnos y los tipos de mascota que atiende, y actualiza las historias clínicas.*
 
 ### Modelo
 Modelo de Dominio: <a href="url">https://drive.google.com/file/d/1-QOe2XRFCVDSYApUvm1PXDwjMhxbNh0a/view?usp=sharing</a>.
