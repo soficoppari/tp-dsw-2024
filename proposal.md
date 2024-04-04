@@ -8,9 +8,8 @@
 * 51175 - García, Ramiro
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [backend app](https://github.com/soficoppari/backendTPdsw.git)
+* [frontend app](https://github.com/soficoppari/frontendTPdsw.git)
 
 ## Tema
 ### Descripción
