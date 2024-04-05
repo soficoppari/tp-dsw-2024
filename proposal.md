@@ -30,14 +30,14 @@ Regularidad:
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinaria<br>4. CRUD Turno|
 |CRUD dependiente|1. CRUD Historia Clinica {depende de} CRUD Mascota<br>2. CRUD Tipos de Mascota Atendidos {depende de} CRUD Veterinaria|
 |Listado<br>+<br>detalle| 1. Listado de veterinarias filtrado por tipo de mascotas atendidas, muestra nombre y domicilio de la veterinaria => detalle CRUD Turno<br> 2. Listado de antecedentes filtrado por rango de fecha, muestra el titulo del antecedente y su fecha => detalle muestra datos completos del antecedente|
-|CUU/Epic|1. Reservar un turno para una mascota<br>2. Actualizar historia clínica para una mascota|
+|CUU/Epic|1. Reservar un turno para una mascota<br>2. Registrar usuario|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinaria<br>4. CRUD Turno<br>5. CRUD Historia Clínica<br>6. CRUD Tipos de Mascota Atendidos<br>7. CRUD Comentarios/Calificaciones|
-|CUU/Epic|1. Reservar un turno para una mascota<br>2. Actualizar historia clínica para una mascota<br>3. Realizar una valoración de la veterinaria|
+|CUU/Epic|1. Reservar un turno para una mascota<br>2. Registrar usuario<br>3. Registrar veterinaria|
 
 
 ### Alcance Adicional Voluntario
