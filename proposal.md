@@ -8,7 +8,7 @@
 * 51175 - García, Ramiro
 
 ### Repositorios
-* [backend app](https://github.com/soficoppari/backendTPdsw.git)
+* [backend app](https://github.com/soficoppari/dsw.git)
 * [frontend app](https://github.com/soficoppari/frontendTPdsw.git)
 
 ## Tema
