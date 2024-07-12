@@ -36,7 +36,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinaria<br>4. CRUD Turno<br>5. CRUD Historia Clínica<br>6. CRUD Tipos de Mascota Atendidos<br>7. CRUD Comentarios/Calificaciones<br>8.CRUD Turno|
+|CRUD |1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinaria<br>4. CRUD Horario<br>5. CRUD Historia Clínica<br>6. CRUD Tipos de Mascota Atendidos<br>7. CRUD Comentarios/Calificaciones<br>8.CRUD Turno|
 |CUU/Epic|1. Reservar un turno para una mascota<br>2. Registrar usuario<br>3. Registrar veterinaria|
 
 
