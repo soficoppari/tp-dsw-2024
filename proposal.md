@@ -41,3 +41,7 @@ Adicionales para Aprobación
 
 ### Adicionales
 La app cuenta con 5 tests unitarios para usuario, mascota, veterinario, raza y especie; y un test de integración para usuario. Integra una API para gestión de pagos (Stripe). Por último, fue deployada en su totalidad, a través de Railway (backend) y Netlify (frontend).
+
+
+https://github.com/user-attachments/assets/715221d4-51a3-48ee-92f0-dad9896c3945
+
