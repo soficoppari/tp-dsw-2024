@@ -13,7 +13,7 @@
 
 ## Tema
 ### Descripción
-*Página web full stack para conectar veterinarias con sus respectivos clientes, en donde un usuario se registra y registra a sus mascotas con sus datos e historia clínica, filtra y elige veterinarias según el tipo de mascota, y saca turnos. Por el lado de la veterinaria, esta se registra, registra los turnos y los tipos de mascota que atiende, y actualiza las historias clínicas.*
+*Proyecto de aplicación web full stack para la gestión de una veterinaria. La plataforma permite a los clientes registrarse, registrar sus mascotas, reservar turnos con veterinarios, pagar o cancelar consultas, calificar la atención recibida y visualizar los comentarios realizados por el profesional luego de cada consulta. Por otro lado, los veterinarios pueden registrarse, gestionar su disponibilidad definiendo días y horarios de trabajo, consultar los turnos asignados y registrar observaciones o comentarios sobre cada consulta realizada. El sistema busca centralizar y simplificar la gestión de turnos y el seguimiento de la atención médica de las mascotas.*
 
 ### Modelo
 Modelo de Dominio: <a href="url">https://drive.google.com/file/d/1-QOe2XRFCVDSYApUvm1PXDwjMhxbNh0a/view?usp=sharing</a>.
@@ -27,9 +27,9 @@ Modelo de Dominio: <a href="url">https://drive.google.com/file/d/1-QOe2XRFCVDSYA
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinaria<br>4. CRUD Horario|
-|CRUD dependiente|1. CRUD Historia Clinica {depende de} CRUD Mascota<br>2. CRUD Tipos de Mascota Atendidos {depende de} CRUD Veterinaria|
-|Listado<br>+<br>detalle| 1. Listado de veterinarias filtrado por tipo de mascotas atendidas, muestra nombre y domicilio de la veterinaria => detalle CRUD Turno<br> 2. Listado de antecedentes filtrado por rango de fecha, muestra el titulo del antecedente y su fecha => detalle muestra datos completos del antecedente|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinario<br>4. CRUD Horario|
+|CRUD dependiente|1. CRUD Especie {depende de} CRUD Mascota<br>2. CRUD Tipos de Mascota Atendidos {depende de} CRUD Veterinario|
+|Listado<br>+<br>detalle| 1. Listado de veterinarios filtrado por tipo de mascotas atendidas, muestra nombre y domicilio => detalle CRUD Turno<br> 2. Listado de antecedentes filtrado por rango de fecha, muestra el titulo del antecedente y su fecha => detalle muestra datos completos del antecedente|
 |CUU/Epic|1. Reservar un turno para una mascota<br>2. Cancelar turno para una mascota|
 
 
