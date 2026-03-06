@@ -36,11 +36,6 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinaria<br>4. CRUD Horario<br>5. CRUD Historia Clínica<br>6. CRUD Tipos de Mascota Atendidos<br>7. CRUD Comentarios/Calificaciones<br>8.CRUD Turno|
-|CUU/Epic|1. Reservar un turno para una mascota<br>2.Cancelar turno para una mascota<br>3. Dejar comentario/calificacion a la veterinaria<br>4. Registrar atención veterinaria en la historia clínica de la mascota|
+|CRUD |1. CRUD Usuario<br>2. CRUD Especie<br>3. CRUD Veterinario<br>4. CRUD Raza<br>5. CRUD Horario<br>6. CRUD Mascota<br>7. CRUD Calificacion<br>8.CRUD Turno|
+|CUU/Epic|1. Reservar un turno para una mascota<br>2.Cancelar turno para una mascota<br>3. Dejar comentario/calificacion al veterinario<br>4. Moderación de comentarios en las calificaciones<br>5. Registrar usuario/ veterinario<br>6.Registrar mascota<br>7.Definir horarios de trabajo (veterinario)<br>8.Pagar turno<br>9.Consultar calificaciones de un veterinario<br>10.Buscar veterinarios disponibles<br>11.Consultar agenda del veterinario<br>12.Registrar observaciones de la consulta<br>13.Consultar turnos del usuario|
 
-
-### Alcance Adicional Voluntario
-
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
- _
