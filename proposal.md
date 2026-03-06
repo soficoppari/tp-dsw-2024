@@ -16,7 +16,7 @@
 *Proyecto de aplicación web full stack para la gestión de una veterinaria. La plataforma permite a los clientes registrarse, registrar sus mascotas, reservar turnos con veterinarios, pagar o cancelar consultas, calificar la atención recibida y visualizar los comentarios realizados por el profesional luego de cada consulta. Por otro lado, los veterinarios pueden registrarse, gestionar su disponibilidad definiendo días y horarios de trabajo, consultar los turnos asignados y registrar observaciones o comentarios sobre cada consulta realizada. El sistema busca centralizar y simplificar la gestión de turnos y el seguimiento de la atención médica de las mascotas.*
 
 ### Modelo
-Modelo de Dominio: <a href="url">https://drive.google.com/file/d/1-QOe2XRFCVDSYApUvm1PXDwjMhxbNh0a/view?usp=sharing</a>.
+Modelo de Dominio: <a href="url">[https://drive.google.com/file/d/1-QOe2XRFCVDSYApUvm1PXDwjMhxbNh0a/view?usp=sharing](https://drive.google.com/file/d/1k-A7NpD7EdFRf29Klpk0n8fPWBbAhcqM/view?usp=sharing)</a>.
 
 ## Alcance Funcional 
 
