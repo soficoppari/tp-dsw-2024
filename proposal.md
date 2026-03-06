@@ -40,4 +40,4 @@ Adicionales para Aprobación
 |CUU/Epic|1. Reservar un turno para una mascota<br>2.Cancelar turno para una mascota<br>3. Dejar comentario/calificacion al veterinario<br>4. Moderación de comentarios en las calificaciones<br>5. Registrar usuario/ veterinario<br>6.Registrar mascota<br>7.Definir horarios de trabajo (veterinario)<br>8.Pagar turno<br>9.Consultar calificaciones de un veterinario<br>10.Buscar veterinarios disponibles<br>11.Consultar agenda del veterinario<br>12.Registrar observaciones de la consulta<br>13.Consultar turnos del usuario|
 
 ### Adicionales
-La app cuenta con 5 tests unitarios para usuario, mascota, veterinario, raza y especie; y un test de integración para usuario. Además, fue deployada en su totalidad, a través de Railway (backend) y Netlify (frontend).
+La app cuenta con 5 tests unitarios para usuario, mascota, veterinario, raza y especie; y un test de integración para usuario. Integra una API para gestión de pagos (Stripe). Por último, fue deployada en su totalidad, a través de Railway (backend) y Netlify (frontend).
