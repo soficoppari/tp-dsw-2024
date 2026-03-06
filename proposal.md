@@ -27,9 +27,9 @@ Modelo de Dominio: <a href="url">https://drive.google.com/file/d/1-QOe2XRFCVDSYA
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Usuario<br>2. CRUD Mascota<br>3. CRUD Veterinario<br>4. CRUD Horario|
-|CRUD dependiente|1. CRUD Especie {depende de} CRUD Mascota<br>2. CRUD Tipos de Mascota Atendidos {depende de} CRUD Veterinario|
-|Listado<br>+<br>detalle| 1. Listado de veterinarios filtrado por tipo de mascotas atendidas, muestra nombre y domicilio => detalle CRUD Turno<br> 2. Listado de antecedentes filtrado por rango de fecha, muestra el titulo del antecedente y su fecha => detalle muestra datos completos del antecedente|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Especie<br>3. CRUD Veterinario<br>4. CRUD Raza|
+|CRUD dependiente|1. CRUD Mascota {depende de} CRUD Usuario, Raza<br>2. CRUD Horario {depende de} CRUD Veterinario|
+|Listado<br>+<br>detalle| 1. Listado de veterinarios filtrado por tipo de mascotas atendidas, muestra nombre y domicilio => detalle CRUD Turno<br> 2. Listado de turnos pendientes y atendidos, muestra la fecha del turno, el pago pendiente/ realizado => detalle muestra calificación del turno atendido|
 |CUU/Epic|1. Reservar un turno para una mascota<br>2. Cancelar turno para una mascota|
 
 
